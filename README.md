@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**RegianeSa7/RegianeSa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![fotorelink](https://github.com/RegianeSa7/RegianeSa7/assets/141193032/1e89f5b2-46b2-4000-97b5-f0c7719c494f)
+  </header>
+    <main class="apresentacao">
+        <section class="apresentacao__conteudo">
+            <h1 class="apresentacao__conteudo__titulo">Bem vindos ao meu ReadMe!<strong 
+            class="titulo-destaque"> Sou participante do projeto Aceleração de Carreira em TI pelo Senac São Paulo!
+            </strong></h1>
+            <p class="apresentacao__conteudo__texto">Olá! Sou Regiane Sá e desenvolvi essa página de apresentação 
+                que é um exercício de desenvolvimento da a Alura Include - Aceleração de carreiras em TI, 
+                oferecido pela empresa em que trabalho, o Senac São Paulo.
+            </p>
+      
