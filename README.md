@@ -9,4 +9,5 @@
                 que é um exercício de desenvolvimento da a Alura Include - Aceleração de carreiras em TI, 
                 oferecido pela empresa em que trabalho, o Senac São Paulo.
             </p>
-      
+        <div class="apresentacao__links">
+      <a class="apresentacao__links__navegacao" "href: https://github.com/RegianeSa7">
